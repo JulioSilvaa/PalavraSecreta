@@ -1,11 +1,10 @@
-
-import './App.css';
+import "./App.css";
+import StartScreen from "./Components/StartScreen";
 
 function App() {
   return (
     <div className="App">
-     <h2>dadadad</h2>
-     
+      <StartScreen />
     </div>
   );
 }
